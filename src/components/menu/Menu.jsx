@@ -1,7 +1,7 @@
 
 
 
-const Call = () => {
+const Menu = () => {
   return(
     <div className="container">
 
