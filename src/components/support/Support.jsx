@@ -1,8 +1,9 @@
 import "./Support.css";
-import food from "../assets/food.jpg"; 
+import food from "../../assets/food.png"; 
 
 const Support = () => {
   return (
+    <div className="container">
     <div className="support">
       <div className="support-left">
         <img src={food} alt="food" />
@@ -16,6 +17,7 @@ const Support = () => {
         </h2>
         <button>Order Now</button>
       </div>
+    </div>
     </div>
   );
 };
