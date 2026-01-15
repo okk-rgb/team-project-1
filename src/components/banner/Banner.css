@@ -1,0 +1,36 @@
+.banner__wrapper {
+  display: flex;
+}
+
+.banner__wrapper-text h1 {
+  font-size: 60px;
+  line-height: 60px;
+  letter-spacing: 1.8px;
+  padding-bottom: 27px;
+}
+
+.banner__wrapper-text p {
+  width: 539px;
+  font-size: 18px;
+  line-height: 24.12px;
+  letter-spacing: 0.36px;
+  padding-bottom: 53px;
+}
+
+.banner__wrapper-btn {
+  padding: 19px 35px 21px;
+  background-color: rgba(53, 184, 190, 1);
+  border: none;
+  border-radius: 6px;
+  color: white;
+  margin-bottom: 30px;
+}
+
+.banner__wrapper-icon  {
+  display: flex;
+  color: rgba(0, 182, 122, 1);
+}
+
+.banner__wrapper-icon p {
+  color: black;
+}

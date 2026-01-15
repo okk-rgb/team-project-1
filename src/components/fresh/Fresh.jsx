@@ -1,7 +1,7 @@
 
 
 
-const Call = () => {
+const Fresh = () => {
   return(
     <div className="container">
 
