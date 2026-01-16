@@ -6,7 +6,7 @@ import "./works.css"
 
 const Works = () => {
   return (
-    <div>
+    <div className="container">
       <div className="work">
         <h1>How it works.</h1>
         <div className="work_cards">
@@ -29,7 +29,7 @@ const Works = () => {
         
         </div>
       </div>
-    </div>
+      </div>
   )
 }
 
