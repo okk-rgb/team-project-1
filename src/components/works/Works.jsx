@@ -1,7 +1,6 @@
-import React from 'react'
-import food from './img/food.png'
-import phone from './img/phone.png'
-import home from './img/home.png'
+import food from '../../assets/food2.png'
+import phone from '../../assets/phone2.png'
+import home from '../../assets/home.png'
 import "./works.css"
 
 
@@ -34,4 +33,4 @@ const Works = () => {
   )
 }
 
-export default Banner
+export default Works
