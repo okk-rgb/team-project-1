@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;font-family: cursive;
+}
+.work{
+    width: 1200px;
+    height: 575px;
+    padding-left:120px;
+    padding-right: 120px;
+}
+.work h1{
+    width: 341px;
+    height: 55px;
+    font-size: 50px;
+    color: #35B8BE;
+    align-items: center;
+    font-family: cursive;
+    margin-left: 430px;
+    margin-bottom: 66px;
+}
+.work_cards{
+    display: flex;
+    align-items: center;
+    gap: 100px;
+}
+.work_cards .foods{
+    text-align: center;
+    width: 333px;   
+}
+.work_cards .foods h3{
+    margin-top: 50px;
+    margin-bottom: 15px;
+}
+.work_cards .foods p{
+    width:307px ;
+}
+
+
+
+
+
+.work_cards{
+    display: flex;
+    align-items: center;
+    gap: 100px;
+}
+.work_cards .phone{
+    text-align: center;
+    width: 333px;
+}
+.work_cards .phone h3{
+    margin-top: 50px;
+    margin-bottom: 15px;
+}
+.work_cards .phone p{
+    width:307px ;
+}
+
+
+
+.work_cards{
+    display: flex;
+    align-items: center;
+    gap: 100px;
+}
+.work_cards .home{
+    text-align: center;
+    width: 333px;
+}
+.work_cards .home h3{
+    margin-top: 50px;
+    margin-bottom: 15px;
+}
+.work_cards .home p{
+    width:307px ;
+}
